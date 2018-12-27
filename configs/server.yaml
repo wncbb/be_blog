@@ -1,0 +1,10 @@
+Dev:
+  IP: 127.0.0.1
+  Port: 6789
+  PostgreSQL: "configs/postgreSQL/conf_dev.yaml"
+
+Pro:
+  IP: 127.0.0.1
+  Port: 6789
+  PostgreSQL: "configs/postgreSQL/conf_pro.yaml"
+
